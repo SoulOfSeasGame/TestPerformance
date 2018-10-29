@@ -1,0 +1,1213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/TestOcclusion.unity
+    guid: 330022875fdf4904ab63aa79860aaa0d
+  - enabled: 1
+    path: Assets/Scenes/TestQuadrants.unity
+    guid: 5fd4664859067b94d972a9579b985c64
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_1.unity
+    guid: b33d003440188544a81bef159ff79704
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_2.unity
+    guid: cac3ea93d52e61e4287188cb88e4b537
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_3.unity
+    guid: 3e53303854fb158448711957edc99bd6
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_4.unity
+    guid: b586a01cfb71e2849b5dcd4a29777001
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_5.unity
+    guid: a1fd6f3b6f6489d45a06ae80bcdc8285
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_6.unity
+    guid: f62c0af26d3b4d74f90f65531d37d656
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_7.unity
+    guid: b67bf160b5f287a4fb3725c7fe837abc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_8.unity
+    guid: 355971bcf222fca4489be1d8807adcca
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_9.unity
+    guid: a275de3e19be1b1489cba49321a95f0e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_10.unity
+    guid: e7c7730503d8eba47825001f59c2f4a0
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_11.unity
+    guid: c9104435caa3fe546a1bd9f639d4a1f1
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_12.unity
+    guid: 87e6661f3f3918b4992ca158cc76339d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_13.unity
+    guid: e0e8e806fae440a478ea6ab220615e42
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_14.unity
+    guid: d234dc86464d3ac409c117828f8fee95
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_15.unity
+    guid: b667c17976f4baa44858de42242bb02e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_16.unity
+    guid: 36d4a3e278f2c984890687292eb67710
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_17.unity
+    guid: 623f8a2a4bc5d9848a299fb11e362a33
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_18.unity
+    guid: a5bab903b72700a498a363bfc486ec43
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_19.unity
+    guid: c3f020cc5c3d4ea4398f674f748518e6
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_1_20.unity
+    guid: e0d6ea02cec4dc94e8eddcbadf1a4d07
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_1.unity
+    guid: eed81df9744513a4792144ef811955a0
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_2.unity
+    guid: ebbce62637960ec418e983d17ed5a7b3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_3.unity
+    guid: b9bb2f5d876775c4fadd5633347d62c4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_4.unity
+    guid: 7e44974b04db3a74da2eb4047a3b3af5
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_5.unity
+    guid: 98cb9ad92c2c75b41a6c9dc281a31e6a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_6.unity
+    guid: 255c3304954b3d340a1c3156809942e8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_7.unity
+    guid: dc45a0cf3bfcccf49ab5183b448156e0
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_8.unity
+    guid: dfc0bb3ff45ac4549b6c5563b4ab8858
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_9.unity
+    guid: e0629a57f6d016c43ad1bb15fbb9bf4f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_10.unity
+    guid: 1194bd76fa88c9d49a54e7cf48c8b2db
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_11.unity
+    guid: bd482171f1fd6ea4291ab2c78a7a1f0e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_12.unity
+    guid: 4161786c9f86e0b46958262cad3b6038
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_13.unity
+    guid: 9f4d5c81834eb3247aed684587437fce
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_14.unity
+    guid: 42585335e59f90a4f8160f3999f8b59b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_15.unity
+    guid: 2db95c49de1692245a210a8f7b72629d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_16.unity
+    guid: dabf72654bc2fa445998c692b5814c4e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_17.unity
+    guid: 6e00a5908bca5d94baac10e8c580f7b3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_18.unity
+    guid: df38cc32e7d367e4c8cd811a80ef3ad8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_19.unity
+    guid: 06e722e789f691e4cbf097a6ea3a4da3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_2_20.unity
+    guid: 6229cc2d54d1a2247addc8729d1e7c78
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_1.unity
+    guid: 425efd0d27906394088c7ab00c4c7d56
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_2.unity
+    guid: 9fc4a7642c7d991488e10b6b7510a9aa
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_3.unity
+    guid: d3555bac819a2f747972c8a6f8a64c74
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_4.unity
+    guid: f64205843a1234e43a111d017bea3ccc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_5.unity
+    guid: 64f0cf71824dc974997c598085553990
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_6.unity
+    guid: 0c581562ca653604ea1559b5e62083c3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_7.unity
+    guid: 2e65e0f280bd79e4ab4a79bb48260adc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_8.unity
+    guid: dcf48de2f30ca4b41a6c20c2362594b2
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_9.unity
+    guid: 93d8566158f62d64bb47fa92c9bbfb86
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_10.unity
+    guid: 8459049ba70ab904fabdb74bf486190a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_11.unity
+    guid: fc94d3a1b2a582f46b6c03da4a2dd41f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_12.unity
+    guid: 7c96a8536ef1a434b92427323355e098
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_13.unity
+    guid: ce8c60baf165828459e3ac12c064468b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_14.unity
+    guid: c097eaf815d98c74d97aeeb962e6facf
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_15.unity
+    guid: a8c698d7787d7ee4b901c22c605be8fc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_16.unity
+    guid: cb6a82b64d1f96e4ab4f3c64b4cbba62
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_17.unity
+    guid: 982a4fe051a2db1448709ae71534e445
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_18.unity
+    guid: 5844fd4a20c9d0f44b5ccec5446a86ed
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_19.unity
+    guid: abdbc215661a74046b2fd4172492f45d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_3_20.unity
+    guid: 744e7dc9bf2868848b7759e8c43dbf98
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_1.unity
+    guid: 1adaa23f708bb424f93d7b71d9146da7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_2.unity
+    guid: 45b7db072064b544eabf8c615d8b8137
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_3.unity
+    guid: dc6329b2bdb38ef4a8a0923d3312ff5d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_4.unity
+    guid: fc004ca2e9888444684e5b3ced8aded0
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_5.unity
+    guid: 8df41764047de494a80aa5e7b4bc9037
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_6.unity
+    guid: 8c6142d2c9fd7654294be8a50717489e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_7.unity
+    guid: 7df7854e24967c54cb5b332626262ec5
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_8.unity
+    guid: 4bf64fa05ac1d9348be39c496d55803c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_9.unity
+    guid: 51678e4f6d88d5140abb7ed78bf74f1c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_10.unity
+    guid: 5f9f81ff270c1ed4781abf5c60acf8b3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_11.unity
+    guid: fe068407433872040a76b15ebcde2f3d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_12.unity
+    guid: ca878dc0ed8a51648b4cceb1b9d535a3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_13.unity
+    guid: c23dd624b8b46a94ebe375cafc0ce196
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_14.unity
+    guid: fd0920cf944ccc941a23008977d1c915
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_15.unity
+    guid: 175d769386da5434186fca394fd57ea3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_16.unity
+    guid: 7f6a1429ade862443b83a2e6c6cc5f59
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_17.unity
+    guid: 0778a7b24c9e83e45a703fae7d864294
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_18.unity
+    guid: 9a37fa19ceddc714aa322a3ab485dc18
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_19.unity
+    guid: 7cc46409402e90842b89baafe98577c0
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_4_20.unity
+    guid: 80b2dcdb0a4a7864ab151d4a9fe91c76
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_1.unity
+    guid: 7d6669e5ef885a64b9d9eb0450a7d0e3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_2.unity
+    guid: f4010cc2acc7b9742b6d2f8491f84630
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_3.unity
+    guid: 606ae7e1172d3cb4889ae22d65aaa390
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_4.unity
+    guid: 5559cb521396afc45ab18fd2397b37be
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_5.unity
+    guid: 8b015d6fa9f48d44d97cc172fbe6077f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_6.unity
+    guid: f18afc5d623dafa41ab21a16719900f3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_7.unity
+    guid: f5448c7e96cdff84996a130a40dbba0c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_8.unity
+    guid: 2476e257c5312e242a12df592cffab95
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_9.unity
+    guid: a15aaf32fa4dbd547bc78729527a6547
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_10.unity
+    guid: 1a629118e0b1a1046894be252c4f8991
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_11.unity
+    guid: c2d213034ebcde34b98f5dae4508cd2f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_12.unity
+    guid: 2e1f8eabef08453429503008db8dcb94
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_13.unity
+    guid: 5800eae02f3e5f942a49b0c5051a4d92
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_14.unity
+    guid: a37239c5202d700499f1c341ae45756c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_15.unity
+    guid: eccc4eb2f756e8242a299a515941ca54
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_16.unity
+    guid: c2a3ac3d08b7a9d45a84629f58c615e3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_17.unity
+    guid: dae76138283f5014ab6b0add937d29f3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_18.unity
+    guid: 5d39911e88f30de4085fc1ef3775d57d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_19.unity
+    guid: 9229b800d56757a41b4b8ec6b7a2d1cc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_5_20.unity
+    guid: 6276b1494b049fd4c962d8ce4dca7c2a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_1.unity
+    guid: 3e2749ef781212f4b9391e54307cd33f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_2.unity
+    guid: ced0a7048c5e56e43b402757fd6c0380
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_3.unity
+    guid: a073971bbe9805243ba491c30c92b284
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_4.unity
+    guid: 1e4ddc71efedc454fae371d11f4ca572
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_5.unity
+    guid: f1bd406dd7343814994e27a3ef7146c7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_6.unity
+    guid: f4c11984a2a9ce548b7a0569158ffecc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_7.unity
+    guid: 261daa950fbab9a459588534f11c3d01
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_8.unity
+    guid: 3fedf5e59a10da34dba2a27aa1b93573
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_9.unity
+    guid: eabf6c968e9ff8a40bb5062fde18d403
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_10.unity
+    guid: 8fcd333e5bddf7549ad86578a4bcda3c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_11.unity
+    guid: 166539fc49a863f42b7bfc1cb95e5380
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_12.unity
+    guid: 153e3f74e1c5e124988a1fe57bdbe122
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_13.unity
+    guid: 4e2d5111073311746a2d539bfc32a8eb
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_14.unity
+    guid: 260c6dcacdd99e3418566014aa21f324
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_15.unity
+    guid: ca213af1219bfaf478b3befc4a6eeb9e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_16.unity
+    guid: b46088803164e6048aca2a6658dbebf9
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_17.unity
+    guid: 39ea3e1fb69c34a48ab173a18be01d69
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_18.unity
+    guid: 480714d515ce9db418b677259d2f9fa7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_19.unity
+    guid: beb88cc5a652bcc409f6864bd9f7dd61
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_6_20.unity
+    guid: 8891d46b9d691764fbcd7527e8bbbeec
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_1.unity
+    guid: ccf933dc610ac7e40a914b7c6732a526
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_2.unity
+    guid: 9678f200f1ece884585c5f3f45293def
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_3.unity
+    guid: c881695c3085e6f4faf8f287f5155cc7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_4.unity
+    guid: b9e1584a37c7bba4a98a52dc701ff00d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_5.unity
+    guid: 9cd27bdb8e3ad4b4999ee01fd1b7eaa2
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_6.unity
+    guid: 1075b05622d6d474a84ce32d2e69373d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_7.unity
+    guid: 3d09b6443e3511247bf312db73844ce6
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_8.unity
+    guid: a137bd4ce5f09094f8e8a7ad42900771
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_9.unity
+    guid: 0b0cffb07eef5b44f8645cf27291c56c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_10.unity
+    guid: 10f40ff2bcff3eb409da3663c1b8749b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_11.unity
+    guid: e384c72233f4b4749b5f16ccad245029
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_12.unity
+    guid: 74848f03ef883ce4f867d24ce06ada07
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_13.unity
+    guid: b1714a4c16de624418c9cecc15a9c7b4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_14.unity
+    guid: f5c3ecd7b22c6624f9ea23268a7737bc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_15.unity
+    guid: b2932995397a28a4592bbb5dc6177113
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_16.unity
+    guid: c9692a6ad0c6a0d4eac552bafbe03a4f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_17.unity
+    guid: 6c115118c504caf4187aad3170fca0ce
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_18.unity
+    guid: eca75e296d3946e4e99470c4852c8901
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_19.unity
+    guid: d85a8832ff184bd42a8bbd89821f1b6c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_7_20.unity
+    guid: 3a5e8518341a75f45bb2af04c3d5acc7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_1.unity
+    guid: 2db697fe5bfcf1b40a6a049c25f9a38d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_2.unity
+    guid: 4d61de594d0f90c4e834f2e9d0df6a86
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_3.unity
+    guid: 61d5dcfc0d4853f469f9e2964660d827
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_4.unity
+    guid: 979e94f5f63847f40a8b01a38f924d07
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_5.unity
+    guid: 729d63be829627d4f893036bd8153b15
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_6.unity
+    guid: fb6332751006d8045937cfb5cb5cfdf7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_7.unity
+    guid: 40c0d6bbdf472094d8c2d9987b479857
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_8.unity
+    guid: 99802675b5982d1479e995936d63832e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_9.unity
+    guid: cbd3c7770e8c8d54196625041feef3ce
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_10.unity
+    guid: d99a6b06e61a9cb4693bb6669a548d8f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_11.unity
+    guid: 2cfa38f2bcdae8d4ab32c427d5e372a2
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_12.unity
+    guid: ca7d43003d380a54c8699906f9758af7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_13.unity
+    guid: b923db6b6c9fb544795f80e0c78a4c8d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_14.unity
+    guid: c48ff1fa14b7cec41ae66d9486e71673
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_15.unity
+    guid: 4bcf1efb15c067042943b90b905260d6
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_16.unity
+    guid: 911aff1581ba0ef499926590835b2edd
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_17.unity
+    guid: ae64fe0be2c82ee4086d46459815772d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_18.unity
+    guid: 9b1132690e9026043bb5bddd966e6245
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_19.unity
+    guid: 381925044f935524794f22dc4353e46b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_8_20.unity
+    guid: 01fb4feabc0623d45b67f9ffb91188e4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_1.unity
+    guid: 072c0488e8c6c3b429bac44f9dfe6167
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_2.unity
+    guid: 2ca616340b91d494ca26840af58346cf
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_3.unity
+    guid: ebe7d57f33b62f24193a50352c23056d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_4.unity
+    guid: 6975124a9021b6d4ea25b29bc617471b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_5.unity
+    guid: 9e1e53e9ba26fa14ba8ffe6462b5082e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_6.unity
+    guid: bb54d1615206d5b4dae5efe635e0dfb0
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_7.unity
+    guid: 40169e2f2161c2148bd7719a6e27b971
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_8.unity
+    guid: 8631f6dd5e420fd49890541cf39764f2
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_9.unity
+    guid: e2ebd2548a4dde24786533fec0838c15
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_10.unity
+    guid: 0b217f1cc02eb2d48b9f10d07a5b8df7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_11.unity
+    guid: 74a5dc8fbf7097a47a5486f420859fd8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_12.unity
+    guid: ca2f4a1f09ccfb54fa6c890876245edc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_13.unity
+    guid: fa616dda2ce72a54b85a9e3e56730ce9
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_14.unity
+    guid: e392bc99badefa84ca9dd123491c30a7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_15.unity
+    guid: e43a2e1300d5e6844b5b9d33f1b556cb
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_16.unity
+    guid: f0babb6322651224fbe23794117b9d97
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_17.unity
+    guid: 8e759309ba3e7a847bfde8f93f3af980
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_18.unity
+    guid: 1ca18cb1afcb6de4e90a4deb3036b9a3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_19.unity
+    guid: c1bc914914e9e7e48ace43a339650351
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_9_20.unity
+    guid: 6eceab9f22e7aeb48a9c68172be07835
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_1.unity
+    guid: 85732aafc6abc5446b059525b9cc5c76
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_2.unity
+    guid: 257b7cd36c1110d40a51f97f360db7ee
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_3.unity
+    guid: 999c9ac3d34d05045bc03802e13474be
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_4.unity
+    guid: 1c9a056296d410e4da11200008aad57e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_5.unity
+    guid: 004daeef6e3b62f4182803a4d05547f8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_6.unity
+    guid: 878df1bab1bf89245a2c4c3d0cc25829
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_7.unity
+    guid: 6b1143779f64dbe4ea49f02929a4dfd8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_8.unity
+    guid: fe40338ae5ca1b241aa5290b94ea93d4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_9.unity
+    guid: 8ec7a816f9a60d847a97fc356fad0cc9
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_10.unity
+    guid: 9533f1c02ff0b994695e5093ca0dbaff
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_11.unity
+    guid: bfa0b682709d09842864f5fc431c63b4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_12.unity
+    guid: 49f4b623b6753c442896d5fee71e6ff1
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_13.unity
+    guid: a287b568514338048b1b3c31f953e7e3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_14.unity
+    guid: 0dceacd5bce385040bcdcc6918d9cdf1
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_15.unity
+    guid: 3e02f5dc9ed3edd4392ffb21fda69538
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_16.unity
+    guid: a4a311dd3c38fa14da432b69b5286f85
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_17.unity
+    guid: 08caf17818e851a4bad4c06380c3c81a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_18.unity
+    guid: ce67c0cb27ccb9a4c91defee5019800d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_19.unity
+    guid: 4314730338ebbb94e8eb3ae621aa1f1d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_10_20.unity
+    guid: 6f7b2fcc6395f4e40b3bb119e5f3977b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_1.unity
+    guid: 010a7ed991d766f43a17117d8cecfd14
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_2.unity
+    guid: 2efe21ac895276642958095e5ce8c6da
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_3.unity
+    guid: 154dceccb67836a4f87d784c95dda6c1
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_4.unity
+    guid: 1705ec9c3a9047548b06100bf5102064
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_5.unity
+    guid: af8727a9cc899ff40be44e043024852c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_6.unity
+    guid: c8f375a5dbe34ec45ae9902186f632a8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_7.unity
+    guid: ed868c5adbd78974abb38ad03bea4f5b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_8.unity
+    guid: 92168d8e849f7e84f93aa1066de074ac
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_9.unity
+    guid: e73f24cd41747374197d54393cc75ee5
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_10.unity
+    guid: c3c2a05d91fbbfc4d8e0652173e3aae6
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_11.unity
+    guid: 1fc24ba1b776c4f45933b19c208594c3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_12.unity
+    guid: 855a5f42942830e428f8373bb155f07c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_13.unity
+    guid: ad0939deeac8a274caccbb0b10083615
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_14.unity
+    guid: 0cc50ba9a4e9c76489c60356d8e7b081
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_15.unity
+    guid: 3ff457a6a9785494aac43e8d9e626bbc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_16.unity
+    guid: a9b100440b52b084a8731f38e8d2758b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_17.unity
+    guid: c70161101304d0f4db18dd25dc557a37
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_18.unity
+    guid: 2959843fecaffb64d8d2ecb9b2c7eabd
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_19.unity
+    guid: f38cd52dd13ebee41b6f5d33c6f40971
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_11_20.unity
+    guid: c4fe845da15209e44b3500b3890dfb14
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_1.unity
+    guid: 9d7bce9769fc38d4887094612944ef68
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_2.unity
+    guid: a0ebb29f68292e64090f19a265bc438a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_3.unity
+    guid: f37d013646a3d1b4b8df54a08188d622
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_4.unity
+    guid: 71bee4553b66064459af0a05ee7f89e0
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_5.unity
+    guid: 09a5fcac4eec2194e88363fc8bfe65ca
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_6.unity
+    guid: a60aad052ee5b09458cbab612b5a5cd8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_7.unity
+    guid: c32d62780789d6946988422e4786d42f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_8.unity
+    guid: 6e46060fa7ff3804cad4de6fc8c85fdd
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_9.unity
+    guid: c11d8dcbb2f0a3243be5a2f22dd1e40e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_10.unity
+    guid: e92dabf397a60fd4ab7855e179726d2e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_11.unity
+    guid: 7123e0d692d2f8647969352b3bb4486f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_12.unity
+    guid: dcb95a1094b60c04ba058d2961096879
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_13.unity
+    guid: 54553c6a0756c4c44aca7f5f3d6bf371
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_14.unity
+    guid: 501b0522b3c56bc41be8d7be846ec6d9
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_15.unity
+    guid: d47df7d49520dcd4fa52e5a2ff8bbefd
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_16.unity
+    guid: be6eb8e62e2c6764db976041f646565a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_17.unity
+    guid: d00374b9ea89a044aa8355b7f5847412
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_18.unity
+    guid: 9426ad3c7e1af5c4e96b2caaad606a09
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_19.unity
+    guid: c14aa01680e32ac4d88540d282ef99ea
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_12_20.unity
+    guid: c210f9e70bcf50849b8a79e9c9328cda
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_1.unity
+    guid: 009710c81ffcb7c41906f7f0bc9bc34c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_2.unity
+    guid: 934f6d58c9564c647bfcaf3fd43b1e75
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_3.unity
+    guid: 2bdbb19beb517c942a006f84503ff87b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_4.unity
+    guid: 20f16ac31b246d4429070491280fc0b7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_5.unity
+    guid: 9f1368dff9ef5ab44be91742013fcf37
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_6.unity
+    guid: b2d5f37109ea5af4aa0af0b2f38c19c5
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_7.unity
+    guid: 8d63957a8910bbb47bc04b6ce93e69e5
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_8.unity
+    guid: 564b2c83f3bbaec48a1384667ef41982
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_9.unity
+    guid: 991bb62bfba315d45b6d146529d0fe7f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_10.unity
+    guid: 6f96e62bbc68b6e41891e2129a6cb8f9
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_11.unity
+    guid: 0c21d7c05ee535b45a39a9e47ed368b5
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_12.unity
+    guid: 5214b3650158a564185cc1c0fcd0606c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_13.unity
+    guid: f884ac8a45559f346907229d7f35d626
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_14.unity
+    guid: 726843450814e454d9adaccb17f9e9bf
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_15.unity
+    guid: 719bd481c6c80504c9f58a36ef059888
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_16.unity
+    guid: b89fefc67225f7a459286f91e4e30b5c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_17.unity
+    guid: 7b1593c3c60f22d4c81b69904b8dfae5
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_18.unity
+    guid: 6926983739570f44b8c6560f220162b1
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_19.unity
+    guid: b75ce89a75cf53e4fbbba2008c5b634e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_13_20.unity
+    guid: 54cf1160880d4de4c987a92816d0a265
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_1.unity
+    guid: a169cf87603f6974ba4ba13e1f2a3e33
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_2.unity
+    guid: c6d5f47861bfa364590601edce89a8a8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_3.unity
+    guid: 83bdc5f60d590134eb430384049b41e9
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_4.unity
+    guid: b2dc48ee1d2f3a04d893dd3513f6863d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_5.unity
+    guid: 27de3a30ad4f5264bb600c2c7e9fb0f3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_6.unity
+    guid: 436ab96423a955343b2f32a76560ba60
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_7.unity
+    guid: d9bb9057d3f4e9e42b5766cf0bbaf562
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_8.unity
+    guid: 2d96b8d478e0b204eb10002a2153a1a6
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_9.unity
+    guid: 86b8d0452d7192c4dae5084284232e11
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_10.unity
+    guid: b90bbc8264b85cd42a12638a07b0735f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_11.unity
+    guid: b0ff5e90cbf771b4aaa2045a33ff9958
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_12.unity
+    guid: 6651e7ade3d60a64a83603a3a7091aac
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_13.unity
+    guid: d9a49cbcfa4629e40b554581e9d2c951
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_14.unity
+    guid: e1a14436b7282cf46a293f7369ab2425
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_15.unity
+    guid: 4b04beca4d8e57c41b1e2d10890d605b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_16.unity
+    guid: 532f06d933c617a49b9716aaadd1e162
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_17.unity
+    guid: 7ed9dc19c2256e94c8cf64913b3960f5
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_18.unity
+    guid: 4000e8644b4838942a820364ea3da1ae
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_19.unity
+    guid: 6853f362ccb62d944a03b02b097fe2d6
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_14_20.unity
+    guid: aa2d1e184fa208e44afc0ef33875880a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_1.unity
+    guid: cb95377a66d12aa4d97a92cd518df62f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_2.unity
+    guid: d1ad36df283506240bd9a4eb8484e584
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_3.unity
+    guid: 0f7a4da7efc7256419c89279dc0ac70a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_4.unity
+    guid: 446deb6e61ad2eb41988f0ad55020ec5
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_5.unity
+    guid: abcf832ce0fccbe4f9a6221a1e8e4481
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_6.unity
+    guid: b0756d063642da04b84724766aa9f2d4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_7.unity
+    guid: 0a86daa095f0a864db1271cec8efd179
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_8.unity
+    guid: 2adf28791bc017043a24ec313e5d0582
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_9.unity
+    guid: 301a14cc64ceb8d4bb49842634298de9
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_10.unity
+    guid: d443646d423d87a4f97f604358d163b5
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_11.unity
+    guid: aeaf67c99facaf84580ac235865cb00f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_12.unity
+    guid: bfeabf0bff8fffb40b2845c07fcda2f6
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_13.unity
+    guid: fbae1c6fe6637d344be7ff652db19801
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_14.unity
+    guid: ac1f2c56429df1a41a3a7094cdb1e215
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_15.unity
+    guid: 62d4fb6f68e6ea549af562a0646b0710
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_16.unity
+    guid: 8ad37124f416dcc4ab208cca008347c8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_17.unity
+    guid: e3b9a4a7dae95134d96caa3c5540f717
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_18.unity
+    guid: 2ad0ff22046df6046ac60df960f0369d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_19.unity
+    guid: 5eb9d551db94115409ac04e253a0cd00
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_15_20.unity
+    guid: 0c8390eb0d9643a4c9d8a5ce1c851a1a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_1.unity
+    guid: 2d71a5e99e537ee4cbba83b02b7ea45e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_2.unity
+    guid: def613055ff56ca4bbd97ead551bdfe4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_3.unity
+    guid: 2bb182f2b1afcde4b8b7a0f027cc3b30
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_4.unity
+    guid: 56b3b0f036370b34eb971dd2819a755a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_5.unity
+    guid: 6e1558973f2b45942a01ab1d2d2b9ffb
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_6.unity
+    guid: eccc8bec208b1ca4b932d6746e283ba8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_7.unity
+    guid: 82af12be36b3cae4c89b2b7cedcb32d2
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_8.unity
+    guid: de0262b3712b0dc4795f8487829fb64d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_9.unity
+    guid: 42f552249bedc0a42b183dcec7e0943b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_10.unity
+    guid: a5ea0be306c5a644da9f1b8a52ccd2ff
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_11.unity
+    guid: 05add73e00848f2488c53175ca9e497d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_12.unity
+    guid: 98d53e3be79d1c444ab4839cc3efc739
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_13.unity
+    guid: e63435023b3869a4596d6ab4232479ce
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_14.unity
+    guid: 0ad717de259e7f7468771708a6642876
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_15.unity
+    guid: 36dbf70143ac9b44d859e738f77e13ee
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_16.unity
+    guid: e15de6fab07c83b419273d15c754f73b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_17.unity
+    guid: 60b88f07b84a1154682084411423f1ac
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_18.unity
+    guid: 0d41b9d16e5de5849a9d4ab226fc9e8d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_19.unity
+    guid: a3d9e59fab0c9104e940e7a0f153268f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_16_20.unity
+    guid: 56f3fae7add49c547be7f75a8d5ccd74
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_1.unity
+    guid: ecbd1ff510104d84e9c7015d7f3b9a89
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_2.unity
+    guid: ab58a9c763d307147b3b45e9c715c50f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_3.unity
+    guid: f733f2ac6e35b7549b328815943bfcfc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_4.unity
+    guid: fbf621e00494358439550c5448efe36a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_5.unity
+    guid: 37b95c09eeca35048b9a3015f258e904
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_6.unity
+    guid: 6f8f0b0aa6eae0044a59f992993ca51b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_7.unity
+    guid: f7a5d1ce28506c64c9140c4d004adf4f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_8.unity
+    guid: ece95ca8c7e8fb646a147060a8a315f4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_9.unity
+    guid: c4662664338e58043b5393517679e35e
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_10.unity
+    guid: 5e7c83bb6a3c61e40b8259dab83569b1
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_11.unity
+    guid: e0a97b770d3d3454d835ed6ce0c518e3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_12.unity
+    guid: 32e1319dd21ce3d4c849c830d1622e8b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_13.unity
+    guid: 3bd4242184df78342b9f1c97e605b1ed
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_14.unity
+    guid: 34d30c9fd3af8bc41acaac1169077e93
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_15.unity
+    guid: 552b77bf945b3024fada45324b9907e6
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_16.unity
+    guid: 3b619b169058b7b49bc7636fcaccf2b3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_17.unity
+    guid: c87e3acb7adf1514b9b17b8f7206e23b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_18.unity
+    guid: 4a9f7597573a61b4790a2291cfefd966
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_19.unity
+    guid: 2361aebc7d8c576438e8f378d7ab03c0
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_17_20.unity
+    guid: 7b1db03bdcce23247a1c79e7f3df8cab
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_1.unity
+    guid: 9b34cbd75b7b7794ead0ceea27f74ccc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_2.unity
+    guid: bf4a015765e4c3840b5e72ceb6ab2177
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_3.unity
+    guid: e385e968f4ce5f64fb9df63bacb5ed97
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_4.unity
+    guid: 61529d4d156bc154ea362ed3c5c8e0f4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_5.unity
+    guid: 914976af35ea8f343bb4ec76c4457280
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_6.unity
+    guid: 6621b2f9ae0ce20448259e3a8e979cb4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_7.unity
+    guid: 274fc60f0f0698b4f9d34fcb624683ee
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_8.unity
+    guid: 335f9d5d94b5dc14b84d8857e53b27bb
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_9.unity
+    guid: e0e73adbd174c6f46b12be9eb2d4c490
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_10.unity
+    guid: 003aa67927cdda84284fdcd91abfb28c
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_11.unity
+    guid: 0fae3534ffe41c7478b53cff76da03b3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_12.unity
+    guid: b21c0943747156e47900e66ca142eded
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_13.unity
+    guid: ab68b0c6da957a44fbe9312767e56846
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_14.unity
+    guid: 4a62e39794123f1458a358110ea25ef4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_15.unity
+    guid: 54f39e9c648dd734ea5eb37da4a949fc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_16.unity
+    guid: 645ce35067b500d4ab8c78a55b68a1bf
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_17.unity
+    guid: d3f852ae8a98ab745a78006e7d0ac3d9
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_18.unity
+    guid: dd455aa3a90a1fa4e8c88b22d8276c97
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_19.unity
+    guid: 2e4ad3cef95cc414e8cc94446ce18cb2
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_18_20.unity
+    guid: 485e2ca13a958a240b9865d209590392
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_1.unity
+    guid: 16a2720be39afa9489ba55827b484702
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_2.unity
+    guid: ed5a054f2f7494542b0f83ad9b5c2fee
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_3.unity
+    guid: 733cdafb3a5d78d4093e48f05b31b281
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_4.unity
+    guid: 3d4bf10ccce35f046b02fc9e6ca6ddbc
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_5.unity
+    guid: 0e4eaa0f7f4e7c441848ce0d12719618
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_6.unity
+    guid: b5265c09b4978d047b29e3be5d5f0169
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_7.unity
+    guid: f46c555d143cee140975872222b5a6a9
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_8.unity
+    guid: cd5cc688d11d2934d9ce76c4162086d1
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_9.unity
+    guid: 18d5b973891b10349be0aa70466e644a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_10.unity
+    guid: e2daae0ac75246548bd1dfa39fcb2896
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_11.unity
+    guid: 03fbde27f172b8c49b1048dddacce71f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_12.unity
+    guid: 5ed50e6c9db8afa4f97766fbf315f848
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_13.unity
+    guid: ec2d64180533fd249bc0a58ad133c9c2
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_14.unity
+    guid: 9e74aea406f58174cb986e82ba5460c4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_15.unity
+    guid: b293fce4592f79b4e9d049b9fa50c4e3
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_16.unity
+    guid: a313746e848639842b375edc51d2aa2f
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_17.unity
+    guid: 4320f3e59b1bcaa49819b94008258059
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_18.unity
+    guid: bc660238bd49e5d4d8be07738fdad1d9
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_19.unity
+    guid: a341ae206a5141546809bd567a5d91c4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_19_20.unity
+    guid: 99a30e288001686488a87d4428e626e6
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_1.unity
+    guid: e346b3320f7297f4a9972d9ae5e481e8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_2.unity
+    guid: b51d001fbb412ae4a86e52c0a13f7b18
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_3.unity
+    guid: 39c0444f3deb2634a8a8609a360f5e6a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_4.unity
+    guid: 8524ad0118e7eca45af4ce72f611dbd4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_5.unity
+    guid: b4d55c42b9a69b54a93de2a63737a5e8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_6.unity
+    guid: a33d02c9c24964f4cbb47fea26205816
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_7.unity
+    guid: db4e2ff1c8f1a3e488c394d37724cb2d
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_8.unity
+    guid: 36c8f15e124dd2d45af90806c0852d6a
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_9.unity
+    guid: 8db864a95740ed040a2e7be011d689a7
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_10.unity
+    guid: 939ff863df3387d43a6bc3af4cdb222b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_11.unity
+    guid: b45ebd43e828c71459e079dd892bb5df
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_12.unity
+    guid: 6d67129ce2fe71446bcf312063d84bc8
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_13.unity
+    guid: 025419f367c9bfe44ae2ad572e22ebe4
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_14.unity
+    guid: ef00cd8792b55104fb6c4bb462a2af40
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_15.unity
+    guid: e8472808c330937479d115f160500961
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_16.unity
+    guid: 67e3d98944fc2e14db0e8832d4c3891b
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_17.unity
+    guid: e45a992203f79024fa5c705928918a76
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_18.unity
+    guid: 00a53b4e54708cd41bb28dfaa8ce61ca
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_19.unity
+    guid: adb3e1ecebfa51146ae5be5940d47856
+  - enabled: 1
+    path: Assets/Scenes/Sectors/Sector_20_20.unity
+    guid: dfe8943b46605e14994c134c9db5cbdc
